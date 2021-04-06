@@ -1,0 +1,13 @@
+body{
+      background: url(https://media.discordapp.net/attachments/697168152206770258/829104700343189524/gradient-red-and-black-background.png?width=720&height=441);
+        }
+
+    h1{
+        color: aliceblue;
+        text-align: center;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    p{
+        color: cornsilk;
+        text-transform: capitalize;
+    }
